@@ -1,8 +1,22 @@
 ## Welcome to the Chat Generator Landing Page
 
-You can use the [editor on GitHub](https://github.com/DermotSheerin/chatGenProject/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+A test framework team has been tasked with identifying a chat generator tool capable of simulating customer chat interactions with Contact Center (CC) agents. The project I have selected is to develop a test generator capable of simulating up to 20k customer chat interactions. The generator will first establish a session with the CC via several API calls and if successful will wait for an agent to answer their interaction. Once the agent answers, the generator will send a chat message and wait for the agent's response. This cycle will continue for a predefined number of loops (specified by the tester) before terminating the interaction.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+A React UI will be responsible for setting the test parameters, starting/stopping each test run, and providing live test statistics and resource usage of the chat generator
+
+To complete the test environment, a Continuous Integration /Continuous Deployment (CI/CD) pipeline (Jenkins) will automate the build and deployment of the chat generator and React applications into docker containers, each time a change is pushed to a GitHub repository
+
+
+
+Demo video:
+https://vimeo.com/549611226/8f1a0c597f
+
+Chat Generator NodeJS (back end)
+https://github.com/DermotSheerin/chat-generator-ix.git
+
+React UI (front end)
+https://github.com/DermotSheerin/react-ix-load-tester.git
+
 
 ### Markdown
 
