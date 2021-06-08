@@ -8,14 +8,14 @@ To complete the test environment, a Continuous Integration /Continuous Deploymen
 
 
 
-###Demo video:
-https://vimeo.com/549611226/8f1a0c597f
+### Demo video:
+[GitHub Flavored Markdown](https://vimeo.com/549611226/8f1a0c597f)
 
-###Chat Generator NodeJS (back end)
-https://github.com/DermotSheerin/chat-generator-ix.git
+### Chat Generator NodeJS (back end)
+[GitHub Flavored Markdown](https://github.com/DermotSheerin/chat-generator-ix.git)
 
-###React UI (front end)
-https://github.com/DermotSheerin/react-ix-load-tester.git
+### React UI (front end)
+[GitHub Flavored Markdown](https://github.com/DermotSheerin/react-ix-load-tester.git)
 
 
 ### Markdown
