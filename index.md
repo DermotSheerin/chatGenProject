@@ -1,4 +1,5 @@
 ## Welcome to the Chat Generator Landing Page
+### Developer: Dermot Sheerin
 
 A test framework team has been tasked with identifying a chat generator tool capable of simulating customer chat interactions with Contact Center (CC) agents. The project I have selected is to develop a test generator capable of simulating up to 20k customer chat interactions. The generator will first establish a session with the CC via several API calls and if successful will wait for an agent to answer their interaction. Once the agent answers, the generator will send a chat message and wait for the agent's response. This cycle will continue for a predefined number of loops (specified by the tester) before terminating the interaction.
 
@@ -9,13 +10,13 @@ To complete the test environment, a Continuous Integration /Continuous Deploymen
 
 
 ### Demo video:
-[https://vimeo.com/549611226/8f1a0c597f]
+[Demo Video](https://vimeo.com/549611226/8f1a0c597f)
 
-### Chat Generator NodeJS (back end)
-[https://github.com/DermotSheerin/chat-generator-ix.git]
+### Chat Generator NodeJS (back end):
+[Chat Generator Repo](https://github.com/DermotSheerin/chat-generator-ix.git)
 
-### React UI (front end)
-[https://github.com/DermotSheerin/react-ix-load-tester.git]
+### React UI (front end):
+[Chat Generator UI](https://github.com/DermotSheerin/react-ix-load-tester.git)
 
 
 ### Markdown
