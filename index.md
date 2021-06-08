@@ -18,3 +18,9 @@ To complete the test environment, a Continuous Integration /Continuous Deploymen
 ### React UI (front end):
 [Chat Generator UI](https://github.com/DermotSheerin/react-ix-load-tester.git)
 
+### Project Report
+[Chat Generator Report](https://github.com/DermotSheerin/chatGenProject/blob/main/Dermot_Sheerin.pptx)
+
+### Project Slides
+[Chat Generator Presentation Slides](https://github.com/DermotSheerin/chatGenProject/blob/main/Final%20Report%20DermotSheerin.pdf)
+
